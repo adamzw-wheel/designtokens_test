@@ -1,0 +1,14 @@
+{
+    "mode": "single-file",
+    "mapping": [{
+            "tokensTheme": "global Wheel styles",
+            "supernovaBrand": "Default",
+            "supernovaTheme": null
+        }
+    ],
+    "settings": {
+        "dryRun": false,
+        "verbose": false,
+        "preciseCopy": false
+    }
+}
